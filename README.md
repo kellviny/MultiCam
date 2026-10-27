@@ -47,8 +47,8 @@ For developers who wish to compile the application from source code.
 
 1. Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/kellviny/MulitCam.git
-cd MulitCam
+git clone https://github.com/kellviny/MultiCam.git
+cd MultiCam
 npm install
 ```
 
